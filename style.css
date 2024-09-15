@@ -20,8 +20,8 @@ body > header {
     background-color: #9baec8;
     color: #282c37;
     display: flex
-    width: 2vw;
-    height: 10vh;
+    width: 3vw;
+    height: 5vh;
     align-items: center;
     justify-content: space-around;
 }
