@@ -17,9 +17,8 @@ ul {
 }
 
 body > header {
-    background-color: #F17F42;
-    color: #011627;
-    width: 1.5vw;
+    background-color: orange;
+    color: #011627 ;
     display: flex;
     height: 12vh;
     align-items: center;
