@@ -22,7 +22,7 @@ body > header {
     display: flex;
     height: 12vh;
     align-items: center;
-    justify-content: space-around;
+    justify-content: center;
 }
 
 #nav-ul{
