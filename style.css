@@ -21,7 +21,7 @@ body > header {
     color: #282c37;
     display: flex
     width: 2vw;
-    height: 12vh;
+    height: 10vh;
     align-items: center;
     justify-content: space-around;
 }
