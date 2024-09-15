@@ -19,10 +19,10 @@ ul {
 body > header {
     background-color: orange;
     color: #F17F42;
-    display: flex;
+    display: flex-shrink;
     height: 12vh;
     align-items: center;
-    justify-content: center;
+    justify-content: space-around;
 }
 
 #nav-ul{
