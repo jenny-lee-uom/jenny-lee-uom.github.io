@@ -17,9 +17,10 @@ ul {
 }
 
 body > header {
-    background-color: orange;
-    color: #F17F42;
+    background-color: #d9e1e8;
+    color: #282c37;
     display: flex-shrink;
+    width: 1.5vw;
     height: 12vh;
     align-items: center;
     justify-content: space-around;
