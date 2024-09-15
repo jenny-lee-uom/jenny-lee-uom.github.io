@@ -54,7 +54,7 @@ body > main article {
 
 #main-content{
     display: flex;
-    justify-content: space-around;
+    justify-content: flex-end;
 }
 
 #main-content > div{
