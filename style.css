@@ -77,6 +77,10 @@ img {
     border-radius: 100%;
 }
 
+img2 {
+    border-radius: 10%;
+}
+
 #footer-ul{
     display: flex;
     list-style: none;
