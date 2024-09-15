@@ -23,7 +23,7 @@ body > header {
     width: 10vw;
     height: 16vh
     align-items: center;
-    justify-content: flex-around;
+    justify-content: flex-end;
 }
 
 #nav-ul{
