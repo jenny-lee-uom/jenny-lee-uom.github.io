@@ -40,10 +40,10 @@ body > header > nav > ul {
 }
 
 .navbutton {
-    color: white;
+    color: lightblue;
     text-decoration: none;
     padding: 12px;
-    border: 1px solid white;
+    border: 1px solid lightblue;
     border-radius: 10%;
 }
 
